@@ -1,8 +1,9 @@
 ## Following two functions are used to create a special object 
-## that stores the matrix and cache's its inverse matrix.
+## that stores the Matrix and caching the Inverse of a Matrix.
 
 
-## This function creates a special "matrix" object that can cache its inverse.
+## This function creates a special "matrix" object 
+## that can cache its Inverse Matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
